@@ -394,17 +394,18 @@ ORDER BY total_quantity DESC;
 ```
 ### Results/findings
 
-- 'Jewelery & Accessories' has the highest number in sales
-- The month of April has the highest total sales
-- In August, 'Toys and Games' had a better selling month than any other category
+- 'Jewelery & Accessories' has the highest number in sales.
+- The month of April has the highest total sales.
+- In August, 'Toys and Games' had a better selling month than any other category.
 - 29 year old men spent the most money while 24 year old women average the most per purchase. 
-- 21 year old men had the most total purchases. The category most purchased was 'Sports & Outdoors'
-- 'Oslo' is the location with the most totat purchases
+- 21 year old men had the most total purchases. The category most purchased was 'Sports & Outdoors'.
+- 'Oslo' is the location with the most total purchases.
 
 ### Recommendations
 
-- Invest in marketing and promotions when sales are at their best. August (Toys & Games), April (Food & Beverages), and March (Sports & Outdoors)
-- Focus on promoting and expanding 'Jewelery & Accessories', the highest earning category, especially to women 42 years of age
-- Consider promoting to 21 year old men. They had the most amount of purchases. Most of their purchases were in 'Sports & Outdoors', which is a high selling category, especially in March
-- 24 year old women had the best average per purchase and the second most amount of purchases. Consider promoting their favorite category, 'Luxury Goods' to them in December when it does best. 
+- Invest in marketing and promotions when sales are at their best. August (Toys & Games), April (Food & Beverages), and March (Sports & Outdoors).
+- Focus on promoting and expanding 'Jewelery & Accessories', the highest earning category, especially to women 42 years of age.
+- Consider promoting to 21 year old men. They had the most amount of purchases. Most of their purchases were in 'Sports & Outdoors', which is a high selling category, especially in March.
+- 24 year old women had the best average per purchase and the second most amount of purchases. Consider promoting their favorite category, 'Luxury Goods' to them in December when it sells best.
+- Focus on marketing in 'Oslo'. That location has the most frequent buyers.
 
