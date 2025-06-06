@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Recommendations](#recommendations)
+- [Data Analysis](data-analysis)
 
 ### Project Overview
 
@@ -25,7 +26,7 @@ https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior
 - Checked for duplicates.
 - Checked for NULL or missing values.
 
-### Goals fo Data Analysis 
+### Goals for Data Analysis 
 
 The goal for this project is to answer key questions such as:
 
