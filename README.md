@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Recommendations](#recommendations)
-- [Data Analysis](data-analysis)
+- [Data Analysis](#data-analysis)
 
 ### Project Overview
 
