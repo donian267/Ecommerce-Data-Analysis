@@ -1,5 +1,10 @@
 # Ecommerce Data Analysis
 
+## Table Of Contents
+
+- [Project Overview](#project-overview)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This data analysis project aims to provide insights into the sales performance of an eCommerce company over the past year. The goal is to utilize customer segmentation, identify trends, and make data driven recommendations for key marketing and optimize sales.
@@ -16,9 +21,9 @@ https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior
 
  ### Data Cleaning/Preperation
 
-- Created a duplicate of the raw dataset to manipulate
-- Checked for duplicates
-- Checked for NULL or missing values
+- Created a duplicate of the raw dataset to manipulate.
+- Checked for duplicates.
+- Checked for NULL or missing values.
 
 ### Goals fo Data Analysis 
 
@@ -26,7 +31,7 @@ The goal for this project is to answer key questions such as:
 
 - What's the best selling item category?
 - Which demographic would be best to target for marketing?
-- When is the best time for marketing a particulier item and to who?
+- When is the best time for marketing a particular  item and to whom?
 
 ### Data Analysis
 
@@ -394,7 +399,7 @@ ORDER BY total_quantity DESC;
 ```
 ### Results/findings
 
-- 'Jewelery & Accessories' has the highest number in sales.
+- 'Jewelery & Accessories' has the highest number of sales.
 - The month of April has the highest total sales.
 - In August, 'Toys and Games' had a better selling month than any other category.
 - 29 year old men spent the most money while 24 year old women average the most per purchase. 
@@ -404,8 +409,12 @@ ORDER BY total_quantity DESC;
 ### Recommendations
 
 - Invest in marketing and promotions when sales are at their best. August (Toys & Games), April (Food & Beverages), and March (Sports & Outdoors).
-- Focus on promoting and expanding 'Jewelery & Accessories', the highest earning category, especially to women 42 years of age.
+- Focus on promoting and expanding 'Jewelery & Accessories', the highest earning category, especially for women 42 years of age.
 - Consider promoting to 21 year old men. They had the most amount of purchases. Most of their purchases were in 'Sports & Outdoors', which is a high selling category, especially in March.
 - 24 year old women had the best average per purchase and the second most amount of purchases. Consider promoting their favorite category, 'Luxury Goods' to them in December when it sells best.
 - Focus on marketing in 'Oslo'. That location has the most frequent buyers.
+
+### Limitations
+
+I had to omit gender specific analysis for the LGBTQIA+ community because of the very small sample size. Overall, they were only 11% of the customers. These customers are still used for analysis, but not for gender specific reasons.
 
