@@ -8,6 +8,9 @@
 
 ### Project Overview
 
+<iframe src="https://public.tableau.com/views/ecommercedashboard_17474162259840/Dashboard1?:showVizHome=no&:embed=true"
+          width="1000" height="800"></iframe>
+
 This data analysis project aims to provide insights into the sales performance of an eCommerce company over the past year. The goal is to utilize customer segmentation, identify trends, and make data driven recommendations for key marketing and optimize sales.
 
 ### Data Source
