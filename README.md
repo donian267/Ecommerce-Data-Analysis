@@ -35,8 +35,7 @@ The goal for this project is to answer key questions such as:
 - When is the best time for marketing a particular  item and to whom?
 
 ### Data Analysis
--Here's a link to the interactive dashboard https://donian267.github.io/Ecommerce-Data-Analysis/
-
+-Here's a link to the interactive <a href="https://public.tableau.com/views/ecommercedashboard_17474162259840/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a>
 ``` sql
 SELECT
 	* INTO Ecommerce_dup
